@@ -1,0 +1,28 @@
+body{
+  background: rgb(223, 189, 189);
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+header {
+  margin-top: 100px;
+}
+h1 {
+  color:rgb(107, 107, 194);
+  font-family: arial;
+}
+
+h2 {
+   color:chocolate 
+}
+
+p {
+  color:crimson;
+  font-size: 20px;
+}
+li {
+  color:darkolivegreen
+}
+.img_padrão {
+  margin-bottom: 10px;
+}
